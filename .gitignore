@@ -1,0 +1,7 @@
+.env
+.venv/
+chroma_db/
+.streamlit/
+.DS_store
+Thumbs.db
+__pysache__/

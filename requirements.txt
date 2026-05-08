@@ -1,0 +1,36 @@
+langchain
+langchain-core
+langchain-community
+
+# LLM Providers
+
+langchain-openai
+langchain-mistralai
+openai
+mistralai
+
+chromadb
+
+sentence-transformers
+
+# Document Loaders dependencies
+
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+tiktoken
+
+python-dotenv
+
+pandas
+numpy
+
+fastapi
+uvicorn
+
+streamlit
+
+tqdm
+requests
