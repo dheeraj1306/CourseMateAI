@@ -9,7 +9,11 @@ langchain-mistralai
 openai
 mistralai
 
+# Vector Database
+
 chromadb
+
+# Embedding Models
 
 sentence-transformers
 
@@ -20,17 +24,34 @@ unstructured
 beautifulsoup4
 lxml
 
+# Text Processing
+
 tiktoken
 
+# Environment Variables
+
 python-dotenv
+
+# Data Handling
 
 pandas
 numpy
 
-fastapi
+# API / App Layer (optional but common in RAG apps)
+
+
 uvicorn
+
+# UI (optional)
 
 streamlit
 
+# Utilities
+
 tqdm
 requests
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+torch
+torchvision
